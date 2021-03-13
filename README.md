@@ -10,7 +10,7 @@ The success of deep denoisers on real-world color photographs usually relies on 
 
 ## Illustration of our unpaired learning scheme
 
-<img src="img/3.png" alt="drawing" width="600px"/>
+<img src="img/3.png" alt="drawing" width="300px"/>
 
 Illustration of our unpaired learning scheme, which iterates with four steps. First, the denoiser is used to obtain pseudo clean images of test noisy images. Then, Pseudo-ISP is deployed to learn noise model in the pseudo rawRGB space, which is further used to synthesize realistic noisy images. Finally, the denoiser is finetuned for adaption using both pseudo and synthetic paired data. 
 

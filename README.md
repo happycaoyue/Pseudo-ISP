@@ -26,7 +26,7 @@ We constitute our Pseudo-ISP involving three subnets, i.e.,sRGB2Raw, Raw2sRGB an
 
 Table 6 lists the PSNR and SSIM results. On all datasets, CBDNet*, RIDNet* and PT-MWRN* outperform their counterparts, indicating that our Pseudo-ISP can be incorporated with different pre-trained denoisers for handling various kinds of noise discrepancy.
 
-## Datsset Download Link
+## Dataset Download Link
 
 Download the mat file of DND dataset
 

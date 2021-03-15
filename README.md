@@ -1,8 +1,5 @@
 # Pseudo-ISP: Learning Pseudo In-camera Signal Processing Pipeline from A Color Image Denoiser
 
-## Acknowledgement
-
-Thank the Professor Wangmeng Zuo for his guidance and help in this work.
 
 ## Abstract
 
